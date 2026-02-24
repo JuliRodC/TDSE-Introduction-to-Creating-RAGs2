@@ -9,8 +9,8 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 from pinecone import Pinecone, ServerlessSpec
 
-os.environ["GROQ_API_KEY"]     = "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"
-os.environ["PINECONE_API_KEY"] = "pcsk_2orQyX_F9DsJFSFuAkMGAxQe6Aga9Hf9smh6eEmxYC72waTBcZFDXPqxYKvCGjMC8fWpB3"
+os.environ["GROQ_API_KEY"]     = "Mi API de Groq, por seguridad en git no la pongo"
+os.environ["PINECONE_API_KEY"] = "Mi API de Pinecone, por seguridad en git no la pongo"
 
 INDEX_NAME = "rag-index"
 

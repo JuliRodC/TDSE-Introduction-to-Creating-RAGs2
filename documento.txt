@@ -1,0 +1,19 @@
+
+La inteligencia artificial (IA) es la simulación de procesos de inteligencia humana por parte de máquinas.
+Estos procesos incluyen el aprendizaje, el razonamiento y la autocorrección.
+
+El machine learning es una rama de la IA que permite a las máquinas aprender de los datos sin ser programadas explícitamente.
+Los algoritmos de machine learning identifican patrones en los datos y toman decisiones con mínima intervención humana.
+
+El deep learning es un subconjunto del machine learning que utiliza redes neuronales artificiales con múltiples capas.
+Estas redes pueden aprender representaciones complejas de los datos, lo que las hace muy poderosas para tareas como reconocimiento de imágenes y procesamiento de lenguaje natural.
+
+Los modelos de lenguaje grande (LLMs) son sistemas de IA entrenados con enormes cantidades de texto.
+Ejemplos de LLMs incluyen GPT-4 de OpenAI, Gemini de Google y Claude de Anthropic.
+Estos modelos pueden generar texto, responder preguntas, traducir idiomas y realizar muchas otras tareas.
+
+RAG (Retrieval-Augmented Generation) es una técnica que combina la búsqueda de información con la generación de texto.
+En un sistema RAG, primero se recuperan documentos relevantes de una base de datos y luego se usan como contexto para que el LLM genere una respuesta más precisa y actualizada.
+
+Pinecone es una base de datos vectorial que permite almacenar y buscar embeddings de forma eficiente.
+Los embeddings son representaciones numéricas del texto que capturan su significado semántico.
